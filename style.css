@@ -7,6 +7,8 @@ body {
 }
 
 button {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 13pt;
     height: 60px;
     text-align: center;
     vertical-align: bottom;
