@@ -41,7 +41,7 @@ function updateImageBasedOnSentiment() {
 
     case (happiness_probability > 0.33):
       next_image_name = "neutrality.png";
-      next_color = "rgb(30, 112, 81)";
+      next_color = "rgb(157, 133, 87)";
       break;
 
     default:
