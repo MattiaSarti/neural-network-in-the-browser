@@ -2,6 +2,8 @@
     <p>A Neural Network Deployed on the Client Side</p>
 </h1>
 
+In this toy example, the page background and the displayed picture change according to the sentiment (positive, neutral or negative) of the input text when clicking "Update Sentiment.
+
 
 ## Examples
 
