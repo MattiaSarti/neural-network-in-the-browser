@@ -6,10 +6,17 @@ body {
     margin-right: 60px;
 }
 
+button {
+    height: 60px;
+    text-align: center;
+    vertical-align: bottom;
+    width: 100px;
+}
+
 h1 {
     margin-left: 330px;
     margin-right: 330px;
-    text-align:center;
+    text-align: center;
 }
 
 img {
